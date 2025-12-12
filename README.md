@@ -34,7 +34,7 @@ Aplikasi ini menggunakan API publik gratis dari **Frankfurter API** untuk data k
 {
   "amount": 1.0,
   "base": "IDR",
-  "date": "2023-12-12",
+  "date": "2025-12-11",
   "rates": {
     "USD": 0.000064,
     "EUR": 0.000059,

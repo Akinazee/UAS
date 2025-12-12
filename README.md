@@ -2,7 +2,7 @@
 
 **Sakuku** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna mengelola keuangan pribadi (Pencatatan Pemasukan & Pengeluaran) serta memantau nilai tukar mata uang asing secara *real-time* menggunakan integrasi RESTful API.
 
-Proyek ini dikembangkan sebagai pemenuhan tugas Ujian Akhir Semester (UAS) Mata Kuliah Mobile Programming.
+Proyek ini dikembangkan sebagai pemenuhan tugas Ujian Akhir Semester (UAS) Mata Kuliah Praktikum Mobile Programming.
 
 ## 📱 Fitur Utama
 
